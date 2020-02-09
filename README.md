@@ -8,7 +8,7 @@ MLTR is a library for efficient and fast track finding based on similarity searc
 Requirements:
 
 * python3
-* Annoy (pip install annoy)
+* [Annoy] (https://github.com/spotify/annoy) (pip install annoy)
 
 # References
 
