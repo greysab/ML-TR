@@ -12,4 +12,4 @@ Requirements:
 
 # References
 
-* Amrouche, S., Kiehn, M., Golling, T., & Salzburger, A. Hashing and metric learning for charged particle tracking.
+* Amrouche, S., Kiehn, M., Golling, T., & Salzburger, A. Hashing and metric learning for charged particle tracking. (https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_31.pdf)
