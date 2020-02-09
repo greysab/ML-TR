@@ -2,7 +2,7 @@
 
 Hashing for tracking
 
-Accessing buckets is fast, and can be optimized to contain everytime a track
+Accessing buckets is fast and can be optimized to contain everytime a track
 
 Requirements:
 
